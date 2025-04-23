@@ -1,7 +1,7 @@
 {
   "job_name" : "wonderful_knuth",
   "api_endpoints" : [ ],
-  "sql" : "select * from `ssb`.`anant`.`orders`;",
+  "sql" : "select * from `ssb`.`anant`.`summaries`;",
   "mv_config" : {
     "name" : "wonderful_knuth",
     "retention" : 300,
