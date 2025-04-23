@@ -1,9 +1,9 @@
 {
-  "job_name" : "wonderful_knuth",
+  "job_name" : "namechange",
   "api_endpoints" : [ ],
   "sql" : "select * from `ssb`.`anant`.`summaries`;",
   "mv_config" : {
-    "name" : "wonderful_knuth",
+    "name" : "namechange",
     "retention" : 300,
     "min_row_retention_count" : 0,
     "recreate" : false,
